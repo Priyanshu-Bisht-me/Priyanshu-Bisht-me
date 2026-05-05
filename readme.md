@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA (AI & DS) student at Graphic Era Hill University <br>
+
 Currently exploring Frontend Development <br>
 Passionate about building purposeful solutions — where 0s & 1s define my identity<br>
 Fun fact: I collect unique coins and enjoy playing online chess
