@@ -1,5 +1,8 @@
 # 💫 About Me:
-Student Learner, Pursuing BCA Ai & Ds from Graphic Era Hill University<br>Currently learning Frontend Development<br>Fun Fact :- Loves to collect unique coins and play Online Chess<br>Coding for Purpose and 01 gives me my identity
+BCA (AI & DS) student at Graphic Era Hill University <br>
+Currently exploring Frontend Development <br>
+Passionate about building purposeful solutions — where 0s & 1s define my identity<br>
+Fun fact: I collect unique coins and enjoy playing online chess
 
 
 ## 🌐 Socials:
