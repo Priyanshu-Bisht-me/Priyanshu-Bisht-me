@@ -1,24 +1,119 @@
-# 💫 About Me:
+<div align="center">
 
-Currently exploring Frontend Development <br>
-Passionate about building purposeful solutions — where 0s & 1s define my identity<br>
-Fun fact: I collect unique coins and enjoy playing online chess
+# Hey, I'm Priyanshu Bisht 👋
+### Frontend-Focused Full-Stack Developer · MERN Stack · BCA @ GEHU '27
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://priyanshu-bisht-me.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshubisht.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/priyanshubisht.me)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VtekGhJfY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshubisht.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshubisht.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyanshu-bisht-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priyanshu-bisht-me&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshu-bisht-me&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=priyanshu-bisht-me&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- BCA student at **Graphic Era Hill University** | CGPA: **9.40**
+- I learn by shipping — every project I build solves a real problem
+- Currently deepening expertise in **React performance**, **REST API design**, and **system design fundamentals**
+- Actively seeking **frontend / full-stack internship** opportunities (Remote & On-site)
+- Fun fact: I collect unique coins and play online chess
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🥛 [AshaPure — Smart Milk Delivery Platform](https://github.com/Priyanshu-Bisht-me/ashapur_customer)
+> Production MERN stack dairy e-commerce platform · **700+ users** · Live & actively maintained
+
+- Built the complete **customer-facing module** — signup, login, shopping, checkout, orders, subscriptions, rewards & profile management
+- Engineered **JWT-based authentication** and role-based access control (RBAC)
+- Integrated seamlessly with the backend delivery module via REST APIs
+- **Stack:** React.js · Node.js · Express.js · MongoDB
+
+---
+
+### 🗃️ [TableForge — Database Management Tool](https://github.com/Priyanshu-Bisht-me/table_forge)
+> Python + MySQL · Handles **1,000+ records** · Spreadsheet-style admin dashboard
+
+- Developed CRUD operations with integrity constraints across relational tables
+- Improved **data consistency by 85%** and reduced manual entry errors by 70%
+- **Stack:** Python · Streamlit · MySQL
+
+---
+
+### ⚔️ [GitHub Arena — Contribution Battle](https://github.com/Priyanshu-Bisht-me/github-arena)
+> Compare two GitHub users via contribution stats, streaks & heatmaps — built for fun, built with Astro
+
+- Interactive battle arena using GitHub's public API
+- Real-time stats comparison: streaks, total commits, monthly activity
+- **Stack:** Astro · JavaScript · GitHub API
+
+---
+
+### 🌐 [Personal Portfolio](https://github.com/Priyanshu-Bisht-me/my-personal-site)
+> Live at [priyanshu-bisht-me.netlify.app](https://priyanshu-bisht-me.netlify.app/)
+
+- Built with React, Vite, TypeScript, Tailwind CSS & Framer Motion animations
+- **Stack:** React · TypeScript · Tailwind CSS · Framer Motion · Vite
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Priyanshu's GitHub Stats](https://github-readme-stats.shion.dev/api?username=priyanshu-bisht-me&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-bisht-me&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshu-bisht-me&theme=dark&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- **DSA with Java** — Apna College *(Apr 2026)*
+- **Java Self-Paced** — GeeksforGeeks *(Jan 2026)*
+
+---
+
+<div align="center">
+
+### 💬 Open to internship opportunities — let's build something real.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudev01)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshubisht.dev@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu-bisht-me&color=0e75b6&style=flat)
+
+</div>
