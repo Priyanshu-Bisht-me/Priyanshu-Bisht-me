@@ -58,16 +58,7 @@
 - Integrated seamlessly with the backend delivery module via REST APIs
 - **Stack:** React.js · Node.js · Express.js · MongoDB
 
----
 
-### 🗃️ [TableForge — Database Management Tool](https://github.com/Priyanshu-Bisht-me/table_forge)
-> Python + MySQL · Handles **1,000+ records** · Spreadsheet-style admin dashboard
-
-- Developed CRUD operations with integrity constraints across relational tables
-- Improved **data consistency by 85%** and reduced manual entry errors by 70%
-- **Stack:** Python · Streamlit · MySQL
-
----
 
 ### ⚔️ [GitHub Arena — Contribution Battle](https://github.com/Priyanshu-Bisht-me/github-arena)
 > Compare two GitHub users via contribution stats, streaks & heatmaps — built for fun, built with Astro
@@ -76,15 +67,7 @@
 - Real-time stats comparison: streaks, total commits, monthly activity
 - **Stack:** Astro · JavaScript · GitHub API
 
----
 
-### 🌐 [Personal Portfolio](https://github.com/Priyanshu-Bisht-me/my-personal-site)
-> Live at [priyanshu-bisht-me.netlify.app](https://priyanshu-bisht-me.netlify.app/)
-
-- Built with React, Vite, TypeScript, Tailwind CSS & Framer Motion animations
-- **Stack:** React · TypeScript · Tailwind CSS · Framer Motion · Vite
-
----
 
 ## 📊 GitHub Stats
 
@@ -100,12 +83,6 @@
 
 ---
 
-## 📜 Certifications
-
-- **DSA with Java** — Apna College *(Apr 2026)*
-- **Java Self-Paced** — GeeksforGeeks *(Jan 2026)*
-
----
 
 <div align="center">
 
