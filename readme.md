@@ -58,7 +58,7 @@
 - Integrated seamlessly with the backend delivery module via REST APIs
 - **Stack:** React.js · Node.js · Express.js · MongoDB
 
-
+---
 
 ### ⚔️ [GitHub Arena — Contribution Battle](https://github.com/Priyanshu-Bisht-me/github-arena)
 > Compare two GitHub users via contribution stats, streaks & heatmaps — built for fun, built with Astro
@@ -67,7 +67,7 @@
 - Real-time stats comparison: streaks, total commits, monthly activity
 - **Stack:** Astro · JavaScript · GitHub API
 
-
+---
 
 ## 📊 GitHub Stats
 
