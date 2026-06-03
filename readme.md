@@ -75,7 +75,6 @@
 
 ![Priyanshu's GitHub Stats](https://github-readme-stats.shion.dev/api?username=priyanshu-bisht-me&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=priyanshu-bisht-me&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshu-bisht-me&theme=dark&hide_border=false&layout=compact)
 
